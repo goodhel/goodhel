@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Backend with Express JS but I know another Backend like Rust
+- 🌱 I’m currently learning about React especially with NextJs
+
+
+   
+[![Goodhel's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodhel&show_icons=true&theme=react&count_private=true&hide=contribs&bg_color=222222)](https://github.com/goodhel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodhel&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/goodhel)
+
 <!--
 **goodhel/goodhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
