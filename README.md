@@ -5,8 +5,9 @@
 
 
    
-[![Goodhel's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodhel&show_icons=true&theme=react&count_private=true&hide=contribs&bg_color=222222)](https://github.com/goodhel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodhel&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/goodhel)
+[![Goodhel's GitHub stats](https://readme-stats.clckblog.space/api?username=goodhel&show_icons=true&theme=react&count_private=true&hide=contribs&bg_color=222222)](https://github.com/goodhel)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=goodhel&layout=compact)](https://github.com/goodhel)
+
 
 <!--
 **goodhel/goodhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
