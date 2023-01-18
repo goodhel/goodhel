@@ -5,8 +5,8 @@
 
 
    
-[![Goodhel's GitHub stats](https://readme-stats.clckblog.space/api?username=goodhel&show_icons=true&theme=react&count_private=true&hide=contribs&bg_color=222222)](https://github.com/goodhel)
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=goodhel&layout=compact)](https://github.com/goodhel)
+[![Goodhel's GitHub stats](https://readme-stats.clckblog.space/api?username=goodhel&show_icons=true&theme=gotham&count_private=true&hide=contribs&bg_color=222222)](https://github.com/goodhel)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=goodhel&layout=compact&theme=gotham&hide=php&bg_color=222222)](https://github.com/goodhel)
 
 
 <!--
